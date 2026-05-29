@@ -1,1 +1,14 @@
 Buổi lab giúp tôi hiểu rõ hơn rằng xây AI product thực tế không chỉ là model hay code, mà còn là workflow, con người, risk control và business operations.
+Trong buổi lab hôm nay, tôi sử dụng AI như một “thought partner” để brainstorm bài toán vận hành thực tế tại Vingroup và hỗ trợ xây dựng AI product scope.
+
+Ban đầu tôi định làm các ý tưởng phổ biến như chatbot hoặc smart parking, nhưng AI đã giúp tôi nhìn rõ hơn rằng rubric của bài lab tập trung vào workflow vận hành thật, bottleneck cụ thể và business impact đo được, chứ không phải chỉ là “AI nghe có vẻ hay”. Sau khi trao đổi và phản biện với AI, nhóm chuyển sang bài toán “UrbanOps Copilot” cho Vinhomes — hỗ trợ Ban Quản Lý xử lý sự cố cư dân theo thời gian thực.
+
+AI hỗ trợ khá tốt ở các phần:
+
+brainstorm pain points thực tế,
+phân tích workflow hiện tại,
+đề xuất AI fit phù hợp,
+xây dựng operational boundary,
+và tạo adversarial test cases cho prompt prototype.
+
+Tuy nhiên AI cũng có nhiều điểm chưa tốt. Một số đề xuất ban đầu quá “AI-first”, thiên về agent tự động hành động mà chưa xét tới rủi ro vận hành và pháp lý. Có lúc AI đề xuất những workflow nghe hợp lý nhưng thiếu metric thực tế hoặc khó triển khai với dữ liệu hiện có. Tôi phải chỉnh lại scope nhỏ hơn và thêm Human-in-the-loop để phù hợp hơn với môi trường vận hành thật.
