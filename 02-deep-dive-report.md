@@ -1,10 +1,10 @@
 # Báo Cáo Phân Tích Sâu Dự Án AI (Deep-Dive Report) - Nhóm
 
-* **Tên nhóm:** [Điền tên nhóm của bạn tại đây]
+* **Tên nhóm:** VFS
 * **Danh sách thành viên:**
   1. Lê Thiên Khang - MSSV: 2A202600726 (Trưởng nhóm)
-  2. [Điền họ và tên thành viên 2 tại đây] - MSSV: [Điền MSSV thành viên 2]
-  3. [Điền họ và tên thành viên 3 tại đây] - MSSV: [Điền MSSV thành viên 3]
+  2. Nguyễn Thụy Như Quỳnh - MSSV: 2A202600557
+  3. Phạm Thành Nam - MSSV:
 
 ---
 
