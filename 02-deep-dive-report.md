@@ -1,3 +1,13 @@
+# Báo Cáo Phân Tích Sâu Dự Án AI (Deep-Dive Report) - Nhóm
+
+* **Tên nhóm:** [Điền tên nhóm của bạn tại đây]
+* **Danh sách thành viên:**
+  1. Lê Thiên Khang - MSSV: 2A202600726 (Trưởng nhóm)
+  2. [Điền họ và tên thành viên 2 tại đây] - MSSV: [Điền MSSV thành viên 2]
+  3. [Điền họ và tên thành viên 3 tại đây] - MSSV: [Điền MSSV thành viên 3]
+
+---
+
 # PHASE 3 — DEEP-DIVE
 
 ## UrbanOps Copilot — Vinhomes Smart City Incident Response
